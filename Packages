@@ -1,4 +1,5 @@
 Package: (com.yourname.packagename)
+<<<<<<< HEAD
 Name: Tage IOS 10 
 Version: 10.2.4.56
 Size: (Size in Bytes)
@@ -7,6 +8,16 @@ Description: the best multitasking ever .. support only ios 10 devices.
 Maintainer: MohdAlyahri <MohdAlyahri@gmail.com>
 Author: MohdAlyahri <MohdAlyahri@gmail.com>
 Section: (IOS 10)
+=======
+Name: Tage 10.2 
+Version: 10.2.15.6
+Size: 515
+Architecture: iphoneos-arm
+Description: the best multitasking ever.. its support all devices running 10.0 - 10.2
+Maintainer: MohdAlyahri <mohdalyahri.com>
+Author: MohdAlyahri <mohdalyahri.com>
+Section: IOS 10 tweaks
+>>>>>>> 7928ff50b7c4dbc2f0c488fcda7fbbd3c2900170
 MD5sum:
 SHA1sum:
 SHA256sum:
