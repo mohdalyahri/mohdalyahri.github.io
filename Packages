@@ -1,14 +1,14 @@
 Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Name: Tage 10.2 
+Version: 10.2.15.6
+Size: 515
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
+Description: the best multitasking ever.. its support all devices running 10.0 - 10.2
+Maintainer: MohdAlyahri <mohdalyahri.com>
+Author: MohdAlyahri <mohdalyahri.com>
+Section: IOS 10 tweaks
 MD5sum:
 SHA1sum:
 SHA256sum:
-Filename: debs//(Tweak Name).deb
+Filename: debs//tage.deb
 
