@@ -1,16 +1,16 @@
-Package: <package>
+Package: com.thecasle.nine
 
-Version: <version>
+Version: 0.1.0
 
 Architecture: iphoneos-arm
 
 Maintainer: Yourname <email (put in <>)>
 
-Depends: <bundleids>
+Depends: MobileSubstrate, PreferenceLoader
 
-Filename: debs//<deb>
+Filename: /nine for ios11
 
-Size: <deb in bytes>
+Size: 1482148
 
 MD5sum: <md5 hash of deb>
 
