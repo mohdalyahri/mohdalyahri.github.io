@@ -27,3 +27,18 @@ Section: Tweaks 11
 Description: Adds a way to check tweak compatibility in cydia
 Author: test <test@gmail.com>
 Name: tweakCompatible
+
+Package: com.gnos.bloard
+Version: 0.1.2-1
+Architecture: iphoneos-arm
+Maintainer: test <test@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: /bloard_0.1.2-1.deb
+Size: 70118
+MD5sum: 7c0add2b1081d60eb4eda8b9c58006e1
+SHA1: 953ff6c8b0cbe4a5ce54a7c5069aa8b4765f3791
+SHA256: 9c7493b3b1bc25798f01baaabaf2e29327b9161338e22b9f834d11890891db50
+Section: Tweaks 10
+Description: Universal dark keyboard for iOS 7/8
+Author: test <test@gmail.com>
+Name: Bloard
