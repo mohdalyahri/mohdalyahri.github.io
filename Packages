@@ -18,7 +18,40 @@ SHA1: <sha1 hash of deb>
 
 SHA256: <sha256 of deb>
 
-Section: <section on your repo>
+Section: iOS 11.3.1
+
+Description: <description>
+
+Author: Yourname <email (put in <>)>
+
+Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
+
+Name: Tweakname
+
+
+
+
+Package: com.thecasle.nine
+
+Version: 0.1.0
+
+Architecture: iphoneos-arm
+
+Maintainer: Yourname <email (put in <>)>
+
+Depends: MobileSubstrate, PreferenceLoader
+
+Filename: /nine for ios11
+
+Size: 1482148
+
+MD5sum: <md5 hash of deb>
+
+SHA1: <sha1 hash of deb>
+
+SHA256: <sha256 of deb>
+
+Section: iOS 11.2.1
 
 Description: <description>
 
