@@ -1,4 +1,4 @@
-<package>
+<package dir="rtl">
 	<id>com.gnos.bloard</id>
 	<name>Bloard</name>
 	<version>0.1.2-2</version>
