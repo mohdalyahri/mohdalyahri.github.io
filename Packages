@@ -8,10 +8,11 @@ Size: 70118
 MD5sum: 7c0add2b1081d60eb4eda8b9c58006e1
 SHA1: 953ff6c8b0cbe4a5ce54a7c5069aa8b4765f3791
 SHA256: 9c7493b3b1bc25798f01baaabaf2e29327b9161338e22b9f834d11890891db50
-Description: Universal dark keyboard for iOS 7/8
+Section: Tweaks
+Description: تغيير لون الكيبورد الى اللون الاسود
 Author: test <test@gmail.com>
 Name: Bloard
-Depiction: https://mohdalyahri.github.io/depictions/?p=bloard_0.1.2-1
+Depiction: https://mohdalyahri.github.io/description.html?id=com.gnos.bloard
 
 Package: bz.jed.tweakcompatible
 Version: 0.0.7
@@ -23,6 +24,7 @@ Size: 17982
 MD5sum: 86fe5df3421cebaa40140a540e64c345
 SHA1: c51eff0fb8d599fa95781eae17a7e99c3163af90
 SHA256: a67955eec2c57ce5b1c06173f20be353233a63a30bfbe80d7fa4bd3da7467d93
+Section: Tweaks 11
 Description: Adds a way to check tweak compatibility in cydia
 Author: test <test@gmail.com>
 Name: tweakCompatible
