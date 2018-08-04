@@ -50,7 +50,7 @@ function loadPackageInfo() {
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
 					$("#your_ios").show();
-					$("#your_ios").html("Current iOS: "+ios_ver);
+					$("#your_ios").html("إصدارك الحالي: "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
