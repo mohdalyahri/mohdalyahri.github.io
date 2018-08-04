@@ -1,9 +1,9 @@
 {
-	"name": "Bloard",
+	"name": "الوصف العام",
 	"desc_short": "تغيير لون الكيبورد الى الاسود",
 	"desc_long": "تغيير لون الكيبورد الى الاسود<br><br>اضبط الاداة من الاعدادات",
 	"compatitle": "iOS 7, 8, 9, 10, 11",
-	"changelog": "<strong>0.0~beta5</strong><br>+ Support iOS 11.<br><strong>0.0~beta4</strong><br>- BugFix.<br>",
+	"changelog": "<strong>0.0~beta5</strong><br>إضافة دعم للاصدار 11<br><strong>0.0~beta4</strong><br>إصلاحات<br>",
 	"screenshot": null,
 	"open": "true",
 }
