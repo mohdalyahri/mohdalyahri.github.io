@@ -5,5 +5,5 @@
 	"compatitle": "iOS 7, 8, 9, 10, 11",
 	"changelog": "<strong>0.0~beta5</strong><br>+ Support iOS 11.<br><strong>0.0~beta4</strong><br>- BugFix.<br>",
 	"screenshot": null,
-	"open": true,
+	"open": "true",
 }
